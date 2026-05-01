@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/chat/[matchId]/page": "app/chat/[matchId]/page.js",
+  "/discover/page": "app/discover/page.js",
+  "/page": "app/page.js",
+  "/likes/page": "app/likes/page.js",
+  "/matches/page": "app/matches/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/profile/[profileId]/page": "app/profile/[profileId]/page.js"
+}
