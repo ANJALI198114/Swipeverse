@@ -4,7 +4,7 @@ A complete, production-ready dating app built with **Next.js 14**, **TypeScript*
 
 ## Deployment
 
-swipeverse-q654c3k6x-anjali-aggarwals-projects.vercel.app
+https://swipeverse-two.vercel.app/
 
 
 ## Tech Stack
