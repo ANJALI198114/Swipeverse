@@ -2,6 +2,11 @@
 
 A complete, production-ready dating app built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
 
+## Deployment
+
+swipeverse-q654c3k6x-anjali-aggarwals-projects.vercel.app
+
+
 ## Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
